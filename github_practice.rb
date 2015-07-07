@@ -7,10 +7,10 @@
 # free to change your feelings as well. Finally, save your changes.
 
 #Please change the following variable to one of your favorite songs
-favsong = "Straight From the Harp by Damu the Fudgemunk"
+favsong = "Beware by Death Grips"
 
 #Feel free to change your feelings as well.
-feeling = "enthused"
+feeling = "like writing Paradise Lost II!"
 
 puts "Whenever I'm writing code, I always love to listen to #{favsong}."
 puts "I don't know why... I guess it just makes me feel #{feeling}."
